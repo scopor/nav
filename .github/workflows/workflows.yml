@@ -22,7 +22,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3	# 一个自动发布github pages的action
         with:
-          deploy_key: ${{ secrets.NAV-TOKEN }}
+          deploy_key: ${{ secrets.NAV_TOKEN }}
           # github_token: ${{ secrets.GITHUB_TOKEN }} 该项适用于发布到源码相同repo的情况，不能用于发布到其他repo
           # external_repository: scopor/nav	# 发布到哪个repo
           keep_files: true
