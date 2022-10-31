@@ -119,6 +119,10 @@
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
+        - title: Z-lib 图书馆
+          logo: https://zh.z-lib.org/favicon.svg
+          url: https://zh.z-lib.org/
+          description: 世界上最大的数字图书馆。
 
 - taxonomy: 休闲娱乐
   icon: fas fa-film fa-lg
