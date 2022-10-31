@@ -65,6 +65,14 @@
           logo: https://www.gstatic.com/devrel-devsite/prod/vbad39f885886bc440e53563b954be5bc119ad9455e9fd347968d0509a569587a/cloud/images/cloud-logo.svg
           url: https://cloud.google.com/
           description: 云计算服务|Google Cloud。
+        - title: DigitalOcean
+          logo: https://www.digitalocean.com/_next/static/media/favicon.594d6067.ico
+          url: https://www.digitalocean.com/
+          description: DigitalOcean。
+        - title: Oracle云
+          logo: https://www.oracle.com/asset/web/favicons/favicon-32.png
+          url: https://www.oracle.com/cn/cloud/free/
+          description: 云免费套餐 | Oracle 中国。
 
     - term: 翻译
       links:
@@ -88,6 +96,10 @@
           logo: 有道词典.png
           url: https://fanyi.youdao.com/
           description: 有道翻译。
+        - title: 海词
+          logo: http://i1.haidii.com/favicon.ico
+          url: http://dict.cn/
+          description: 海量权威词典。
 
     - term: 效率在线
       links:
