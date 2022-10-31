@@ -165,6 +165,19 @@
           logo: https://www.novipnoad.com/favicon.ico
           url: https://www.novipnoad.com/
           description: 无VIP无广告。
+        - title: 低端影视
+          logo: https://ddys.tv/favicon-16x16.png
+          url: https://ddys.tv/
+          description: 低端影视 - 超清在线视频站。
+        - title: 鸭奈飞
+          logo: https://yanetflix.com/favicon.ico
+          url: https://yanetflix.com/
+          description: 鸭奈飞。
+        - title: 莫扎兔
+          logo: https://www.mozhatu.com/favicon.ico
+          url: https://www.mozhatu.com/
+          description: 莫扎兔。  
+          
     - term: 音乐在线
       links:      
         - title: 网易云音乐
