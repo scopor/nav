@@ -227,6 +227,11 @@
           logo: 坚果云.png
           usrl: https://www.jianguoyun.com/
           description: 坚果云官网。
+        - title: 素材管理
+          logo: https://www.billfish.cn/favicon.ico
+          url: https://www.billfish.cn/
+          description: 素材管理、图片管理软件。
+          
     - term: 图标素材
       links:
         - title: Iconfinder
