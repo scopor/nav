@@ -55,6 +55,41 @@
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
+    - term: 效率在线
+      links:
+        - title: 语雀
+          logo: https://gw.alipayobjects.com/zos/rmsportal/UTjFYEzMSYVwzxIGVhMu.png
+          url: https://www.yuque.com/
+          description: 专业的云端知识库。
+        - title: 语雀话题
+          logo: 语雀话题.png
+          url: https://www.yuque.com/shenweiyan/wow
+          description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
+        - title: 石墨文档
+          logo: https://as.smvm.cn/from_qbox/favicon.ico
+          url: https://shimo.im/
+          description: 在线协同办公系统平台,支持云端多人在线协作文档,表格,幻灯片。
+        - title: 幕布
+          logo: https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/792eh7bouloj/mubu/favicon.ico
+          url: https://mubu.com/
+          description: 极简大纲笔记。
+        - title: 小画桌-
+          logo: https://www.xiaohuazhuo.com/favicon.ico
+          url: https://www.xiaohuazhuo.com/
+          description: 免费在线协作白板。
+        - title: 公众号平台
+          logo: 微信公众号.png
+          url: https://mp.weixin.qq.com/
+          description: 再小的个体也有自己的品牌。
+        - title: ProcessOn
+          logo: ProcessOn.png
+          url: https://www.processon.com/
+          description: 免费在线作图、实时协作。
+        - title: showcode
+          logo: https://showcode.app/favicon.ico
+          url: https://showcode.app
+          description: 生成代码图片
+          
     - term: 资讯书籍
       links:
         - title: 微信读书
@@ -117,39 +152,7 @@
         - title: 海词
           logo: http://i1.haidii.com/favicon.ico
           url: http://dict.cn/
-          description: 海量权威词典。
-
-    - term: 效率在线
-      links:
-        - title: 语雀
-          logo: https://gw.alipayobjects.com/zos/rmsportal/UTjFYEzMSYVwzxIGVhMu.png
-          url: https://www.yuque.com/
-          description: 专业的云端知识库。
-        - title: 语雀话题
-          logo: 语雀话题.png
-          url: https://www.yuque.com/shenweiyan/wow
-          description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
-        - title: 石墨文档
-          logo: https://as.smvm.cn/from_qbox/favicon.ico
-          url: https://shimo.im/
-          description: 在线协同办公系统平台,支持云端多人在线协作文档,表格,幻灯片。
-        - title: 幕布
-          logo: https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/792eh7bouloj/mubu/favicon.ico
-          url: https://mubu.com/
-          description: 极简大纲笔记。
-        - title: 小画桌-
-          logo: https://www.xiaohuazhuo.com/favicon.ico
-          url: https://www.xiaohuazhuo.com/
-          description: 免费在线协作白板。
-        - title: 公众号平台
-          logo: 微信公众号.png
-          url: https://mp.weixin.qq.com/
-          description: 再小的个体也有自己的品牌。
-        - title: ProcessOn
-          logo: ProcessOn.png
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
-        
+          description: 海量权威词典。        
 
 - taxonomy: 休闲娱乐
   icon: fas fa-film fa-lg
