@@ -618,6 +618,10 @@
           url: https://www.gaoding.com
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
+        - title: 在线搜索telegram机器人
+          url: https://botlist.infotelbot.com/
+          logo: https://botlist.infotelbot.com/images/favicon.png
+          description: You Can Easily Find Any Telegram Bots。
         
     - term: 谷歌插件
       links:
