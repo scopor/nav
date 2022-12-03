@@ -89,6 +89,10 @@
           logo: https://showcode.app/favicon.ico
           url: https://showcode.app
           description: 生成代码图片
+        - title: 鲜面连接
+          logo: https://mcache.ifanr.cn/static/gbuild/appso-discount-app/images/appso-icon-new-20201127.png?1kmwxXx7chEZ
+          url: https://app.so/xianmian/
+          description: 限免咨询
           
     - term: 资讯书籍
       links:
