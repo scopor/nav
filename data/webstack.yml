@@ -93,6 +93,10 @@
           logo: https://mcache.ifanr.cn/static/gbuild/appso-discount-app/images/appso-icon-new-20201127.png?1kmwxXx7chEZ
           url: https://app.so/xianmian/
           description: 限免资讯
+        - title：Git可视化学习
+          logo: https://learngitbranching.js.org/favicon.ico
+          url: https://learngitbranching.js.org/
+          description: Git可视化学习, 通关打卡练习
           
     - term: 资讯书籍
       links:
