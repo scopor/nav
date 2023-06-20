@@ -1,1 +1,1 @@
-https://nav.sanoon.me
+https://nav.sooloe.com
